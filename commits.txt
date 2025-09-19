@@ -1,2 +1,10 @@
-* b12c7d0 (HEAD -> main, origin/main) Primer commit con el codigo orginal
-     1	A01699190
+* 82a6b5d (HEAD -> main, origin/main, origin/HEAD) Modifiqué paint.py con rectangle
+* 3d6fa8a Modifiqué paint.py con rectangle
+*   fde36a3 Merge pull request #2 from A01668489/main
+|\  
+| * b56cdfc Agregué color nuevo y dibujar círculo
+|/  
+* b12c7d0 Primer commit con el codigo orginal
+     3	A01699190
+     1	Quique
+     1	denzellopezcabrera
