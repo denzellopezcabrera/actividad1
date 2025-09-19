@@ -1,0 +1,2 @@
+* b12c7d0 (HEAD -> main, origin/main) Primer commit con el codigo orginal
+     1	A01699190
